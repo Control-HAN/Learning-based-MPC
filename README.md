@@ -1,4 +1,5 @@
-# S. Y. Han, X. Y. Guo, and S. K. Kommuri, “Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics,” ISA Transactions, in press.
+# Learning-based-MPC
+S. Y. Han, X. Y. Guo, and S. K. Kommuri, “Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics,” ISA Transactions, in press.
 
 
 
