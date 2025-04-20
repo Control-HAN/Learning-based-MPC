@@ -1,5 +1,4 @@
-# Revision Manuscript No.: ISATRANS-D-24-02658
-<!--Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics -->
+# S. Y. Han, X. Y. Guo, and S. K. Kommuri, “Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics,” ISA Transactions, in press.
 
 
 
@@ -16,7 +15,7 @@ PyTorch and MATLAB implementation of **Learning-based MPC (LMPC)** by [Seungyong
 # 1. Method
 
 The proposed **LMPC** is a framework for sampled-data control systems with partially unknown dynamics. 
-<!--In the addressed system, a plant is dependent on a time-varying parameter whose dynamics is unknown. To learn the unknown dynamics, a neural network (NN) is trained using **a neural ordinary differential equation (NODE)**. The trained NN is integrated into the sampled-data MPC framework to estimate the time-varying parameter and predict future system states. The proposed LMPC method guarantees ultimate boundedness for the sampled data control system that operates with a continuous-time plant and a discrete-time control strategy.-->
+In the addressed system, a plant is dependent on a time-varying parameter whose dynamics is unknown. To learn the unknown dynamics, a neural network (NN) is trained using **a neural ordinary differential equation (NODE)**. The trained NN is integrated into the sampled-data MPC framework to estimate the time-varying parameter and predict future system states. The proposed LMPC method guarantees ultimate boundedness for the sampled data control system that operates with a continuous-time plant and a discrete-time control strategy.
 
 <p align="center">
   <img src="Figures/16_Ex2_Case1_Dynamics_Errors.jpg" width="250" />
