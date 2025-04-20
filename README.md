@@ -63,7 +63,7 @@ bash
 
 python Benchmark/RNN_NODE_Train&Prediction.py
 ```
-**3.3 Description**
+**3.3 Description**:
 - Trains both RNN and NODE on a spiral trajectory dataset.
 - Compares the prediction performance (e.g., trajectory tracking, loss, etc.)
 
@@ -74,19 +74,19 @@ This example addresses a tracking control problem for a wheeled mobile robot wit
 - **NODE_Train** folder: Run ```Ex1_Case1_NODE_Train.py``` (Python) to train the NODE.
 - **NODE_LMPC_Run** folder: Run ```main.m``` (MATLAB) to execute the LMPC with the trained NODE.
 
-**3.5 Case 2**
+**3.5 Case 2**:
 - The procedure is identical to Case 1.
 
 ## Example 2: Manipulator Robot Control System
 This example handles a manipulator robot with external torque, again considering two time-varying parameter trajectories.
 
-**3.6 Case 1**
+**3.6 Case 1**:
 - **NODE_Train** folder: Run ```Ex2_Case1_NODE_Train.py``` (Python) to train the NODE.
 - **NODE_LMPC_Run** folder: Run ```main.m``` (MATLAB) to execute the LMPC with the trained NODE.
 - **IterativeLMPC_Run** folder: Run ```main.m``` to compare with the Iterative LMPC proposed in [1].
 - **Comparison_Results** folder: Run ```main.m``` to compare both methods (NODE-LMPC vs. Iterative LMPC).
 
-**3.7 Case 2**
+**3.7 Case 2**:
 - **NODE_Train** folder: ```Run Ex2_Case2_NODE_Train.py``` (Python) to train the NODE.
 - **NODE_LMPC_Run** folder: Run ```main.m``` (MATLAB) for the LMPC.
 - **TDMPC_Train** folder: Train the agent (Temporal Difference MPC proposed in [2]) by calling
