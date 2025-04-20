@@ -31,7 +31,7 @@ In the addressed system, a plant is dependent on a time-varying parameter whose 
   - MPT 3.0 (https://people.ee.ethz.ch/~mpt/2/downloads/)
 
 ## Installation
-Clone the repository:
+Clone the repository
 ```
 bash
 
