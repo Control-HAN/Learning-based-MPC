@@ -1,5 +1,5 @@
 # Learning-based-MPC
-S. Y. Han, X. Y. Guo, and S. K. Kommuri, “Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics,” ISA Transactions, Vol. 162, pp. 64-74, July 2025.
+S. Y. Han, X. Y. Guo, and S. K. Kommuri, “Learning-based MPC of Sampled-data Systems with Partially Unknown Dynamics,” ISA Transactions, vol. 162, pp. 64-74, July 2025.
 
 
 
